@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "917807075514",
+    "firebase_url": "https://safety-d0a38.firebaseio.com",
+    "project_id": "safety-d0a38",
+    "storage_bucket": "safety-d0a38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917807075514:android:ba12c5572a0afee8a3f283",
+        "android_client_info": {
+          "package_name": "com.example.flutterlogindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917807075514-q2ine29uvk79j58nit2era8d2c1l6obv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdTHY0_LIBXiMAa7RbiErAjf8NuqWL0Xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917807075514-q2ine29uvk79j58nit2era8d2c1l6obv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917807075514:android:ccb5d11c897931eea3f283",
+        "android_client_info": {
+          "package_name": "io.fireship.lessonapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917807075514-q2ine29uvk79j58nit2era8d2c1l6obv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdTHY0_LIBXiMAa7RbiErAjf8NuqWL0Xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917807075514-q2ine29uvk79j58nit2era8d2c1l6obv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917807075514:android:96ca497f5b74fdeaa3f283",
+        "android_client_info": {
+          "package_name": "tech.urmilshroff.dashboard_reborn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917807075514-q2ine29uvk79j58nit2era8d2c1l6obv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdTHY0_LIBXiMAa7RbiErAjf8NuqWL0Xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917807075514-q2ine29uvk79j58nit2era8d2c1l6obv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917807075514:android:2c404b55c9a477b4a3f283",
+        "android_client_info": {
+          "package_name": "thealphamerc.flutter_login_signup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917807075514-q2ine29uvk79j58nit2era8d2c1l6obv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdTHY0_LIBXiMAa7RbiErAjf8NuqWL0Xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917807075514-q2ine29uvk79j58nit2era8d2c1l6obv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

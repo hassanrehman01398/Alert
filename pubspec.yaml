@@ -1,0 +1,94 @@
+name: dashboard_reborn
+description: Alert app to save people
+version: 1.1.1+5
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  dynamic_theme: ^1.0.1
+  eva_icons_flutter: ^2.0.0
+  flare_flutter: ^1.8.1
+  gradient_widgets: ^0.5.0
+  liquid_swipe: '1.2.0'
+  url_launcher: ^5.2.4
+  flutter_swiper: 1.1.4
+  
+  firebase_core: 0.4.0+8
+  firebase_storage: 3.0.4
+  image_cropper: 1.0.2
+  image_picker: 0.6.0+17
+  call_number: ^0.0.1
+  system_shortcuts: ^0.1.1
+  flutter_email_sender: ^2.2.2
+  # A powerful Http client for Dart, which supports interceptors, FormData, Request Cancellation,
+  # File Downloading, Timeout etc.
+  dio: ^3.0.3
+  google_fonts: ^0.3.9
+  # Flutter widgets that make it easy to implement the BLoC design pattern.
+  flutter_bloc: ^0.21.0
+
+  # Automatically generate code for converting to and from JSON by annotating Dart classes.
+  json_serializable: ^3.2.3
+
+  # Package provides internalization and localization facilities, including message translation,
+  # plurals and genders, date/number formatting and parsing, and bidirectional text.
+  intl: ^0.16.0
+
+  # Flutter plugin for launching a URL in the mobile platform. Supports iOS and Android.
+
+  # Flutter library to load and cache network images. Can also be used with placeholder and
+  # error widgets.
+  cached_network_image: ^2.0.0-rc
+
+  flutter_stetho: ^0.5.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.7.4
+
+flutter_icons:
+  android: 'launcher_icon'
+  image_path_android: 'assets/icon/Logo(transparent).png'
+  adaptive_icon_foreground: 'assets/icon/Logo(transparent).png'
+  adaptive_icon_background: '#fafafa'
+
+  ios: true
+  image_path_ios: 'assets/icon/Logo(transparent).png'
+
+flutter:
+  uses-material-design: true
+
+  assets:
+     - assets/credits/
+     - assets/flare/
+     - assets/icon/
+     - assets/music/
+     - assets/images/
+
+  fonts:
+    - family: Rubik
+      fonts:
+        - asset: assets/fonts/Rubik/Rubik-Regular.ttf
+        - asset: assets/fonts/Rubik/Rubik-Medium.ttf
+        - asset: assets/fonts/Rubik/Rubik-Bold.ttf
+        - asset: assets/fonts/Rubik/Rubik-Italic.ttf
+          style: italic
+
+    - family: RobotoMono
+      fonts:
+        - asset: assets/fonts/RobotoMono/RobotoMono-Regular.ttf
+        - asset: assets/fonts/RobotoMono/RobotoMono-Medium.ttf
+        - asset: assets/fonts/RobotoMono/RobotoMono-Bold.ttf
+
+    - family: Quicksand
+      fonts:
+        - asset: assets/fonts/Quicksand/Quicksand-Regular.ttf
+        - asset: assets/fonts/Quicksand/Quicksand-Medium.ttf
+        - asset: assets/fonts/Quicksand/Quicksand-Bold.ttf
